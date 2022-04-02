@@ -1,0 +1,8 @@
+city,ST1,ST2,ST3,ST4,ST5
+rental,1600,3200,2400,2900,3050
+Max Vaccination Capacity per Day,5000,10000,7500,8500,9500
+Distribution of Vaccine centers,'c4': 2,'c4': 4,'c4': 3,"'c4': 3, 'c1': 5","'c5': 1, 'c2': 1, 'c4': 2"
+Total number of Vac-A per day,132,678,188,176,265
+Total number of Vac-B per day,3815,7286,5407,6323,6172
+Total number of Vac-C per day, 1017,1932,1878,1981,3029
+Estimated number of days for completion,114,52,119,136,73
